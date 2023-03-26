@@ -1,0 +1,29 @@
+.App {
+    padding: 30px;
+    display: flex;
+}
+
+.error {
+    border: 1px solid red;
+}
+
+.error-message {
+    color: red;
+}
+
+.goodPrice {
+    /*color: green;*/
+}
+
+.badPrice {
+    /*color: red;*/
+}
+
+.inCart {
+    /*opacity: 0.6;*/
+    /*text-decoration: line-through;*/
+}
+
+.activeButton {
+    /*background: deepskyblue;*/
+}
